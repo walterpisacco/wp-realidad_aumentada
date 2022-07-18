@@ -1,4 +1,4 @@
-# Inteligencia Artificial Aplicada
+# Realidad Aumentada Aplicada
 ![Vision Artificial](https://github.com/walterpisacco/wp-realidad_aumentada/blob/main/aruco3d.png)
 ![Vision Artificial](https://github.com/walterpisacco/wp-realidad_aumentada/blob/main/Imegen.png)
 
